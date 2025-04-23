@@ -1,0 +1,23 @@
+# 基础数据处理
+pandas
+numpy
+tushare             #基本面数据需2000积分才可获取。学生教师可免费申请。详见https://tushare.pro/document/1?doc_id=108
+tqdm
+
+# 统计分析
+statsmodels
+scipy
+alphalens-reloaded  # 详见https://pypi.org/project/alphalens-reloaded/
+
+# 机器学习
+scikit-learn
+xgboost
+cvxpy
+
+# 可视化
+matplotlib
+seaborn
+
+# 开发环境
+jupyter
+ipykernel
